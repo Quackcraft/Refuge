@@ -1,0 +1,3 @@
+item.storageComponent.name=
+item.chestFilter.name=
+item.chestLock.name=

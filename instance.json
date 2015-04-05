@@ -1,0 +1,23 @@
+{
+  "name": "Refuge",
+  "lastPlayed": "2015-04-04T21:23:46.479281Z",
+  "IsUserCreated": true,
+  "isUnlocked": true,
+  "minecraftVersion": "1.7.10",
+  "projectID": 0,
+  "fileID": 0,
+  "customAuthor": "dmaster8",
+  "Author": "dmaster8",
+  "baseModLoader": {
+    "Name": "forge-10.13.2.1291",
+    "Type": 1,
+    "MinecraftVersion": "1.7.10",
+    "DownloadUrl": "http://minecraftforge.cursecdn.com/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-installer.jar",
+    "Filename": "forge-1.7.10-10.13.2.1291-installer.jar",
+    "InstallMethod": 0,
+    "Latest": true,
+    "Recommended": true
+  },
+  "installDate": "2015-04-03T13:22:14.1087732Z",
+  "isUpdating": false
+}
